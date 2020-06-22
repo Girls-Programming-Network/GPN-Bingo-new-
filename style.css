@@ -1,0 +1,38 @@
+button {
+  background-color: #8ac007;
+  width: 100px;
+  height: 100px;
+  border-radius:5px;
+  color : white;
+  font-size: 16px;
+  border: None;
+}
+
+button:hover {
+  background-color: #7bad07;
+}
+
+.pressed {
+  background-color: #992588;
+}
+
+.pressed:hover {
+  background-color: #781e6a;
+}
+
+
+
+.bingoBoard {
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns:  120px 120px 120px 120px 120px;
+  grid-template-rows: 120px  120px 120px 120px 120px;
+  padding: 10px;
+}
+
+.bingoBox: {
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end: 5;
+}
