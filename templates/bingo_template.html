@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>GPN Bingo Break Board</title>
+    <link rel="shortcut icon" href="http://127.0.0.1:5000/favicon.ico" />
+    <link href="static/style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="bingoBoard">
+      {% for task in tasks %}
+        <button id={{ "bingo" + task.num }} class="bingoBox" >
+          {{ task.title }}
+        </button>
+      {% else %}
+        <li><em>No tasks recieved.</em>
+      {% endfor %}
+
+    </div>
+  </body>
+
+
+  <script src="static/script.js"></script>
+</html>
