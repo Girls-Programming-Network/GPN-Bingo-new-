@@ -20,8 +20,6 @@ button:hover {
   background-color: #781e6a;
 }
 
-
-
 .bingoBoard {
   display: grid;
   grid-gap: 0px;

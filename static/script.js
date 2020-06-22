@@ -16,21 +16,22 @@
 
     cookie = getCookie()
 
-    if (typeof cookie !== 'undefined') {
+    if (cookie) {
       values = cookie["button_values"];
     }
 
-    if (typeof values !== 'undefined') {
+    if (values) {
       for (i = 0; i < values.length; i++) {
         if (values[i] === 1) {
           document.getElementById("bingo" + (i)).classList.add("pressed");
-        } 
+        }
       }
     } else {
-      var values = [0, 0, 0, 0, 
-                    0, 0, 0, 0, 
-                    0, 0, 0, 0,
-                    0, 0, 0, 0];
+      var values = [0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0];
     }
 
     function setCookie(values){
