@@ -1,25 +1,25 @@
-Do 10 star jumps
-Complete a grok activity
-Make apaper areoplane
-Make a paper hat
-Perform a dance
-Get and error in Grok and solve it
-Do 10 push ups
-Make a paper hat and wear it for 30 minutes
-Solve the GPN crossword
-Draw a GPN mascot
-Do 10 sit ups
-Make a GPN heart
-Drink a glass of water
-Learn a fact about IT and share it with your pod
-Do some stretches as a pod
-Get 5 green diamonds on Grok
-Write a limeric about GPN
+Get 4 Diamonds Green on Grok
+Ask a Question in a lecture
+Use an If Statement in Grok
+Draw a GPN Mascot
 Do some origami
-Finish the first module on Grok
-Translate the morse code message
-Learn something new about a GPN tutor
-Play Simon Says as a pod
-Find an embedded system that's smaller than a loaf of bread (no mobile phones)
-Write something you are grateful for
-Present a snack to the group as if you were presenting it on Master Chef
+Write a Limerick about GPN (instructions linked)
+Write down 5 things you can see, 4 you can hear, 3 you can hear, 2 you can smell and 1 you can taste
+Finish the 1st Module on Grok
+Attend 3 lectures
+Get 2 Diamonds Green on Grok
+Attend 2 lectures
+Come up with a GPN Slogan
+What are the initials of your first and last name? Find items in your house that start with those letters.
+Get 5 Diamonds Green on Grok
+Ask a Question using the tutoring system in Grok
+Solve the Morse Code puzzles
+Get 3 Diamonds Green on Grok
+Attend the Images lecture
+Get your first Error in Grok
+Find something in your house with an embedded system in it that’s bigger than you and share it with your pod
+Use a For loop inside a For loop
+Get 1 Diamond green in Grok
+Crack a Caesar cypher using the cypher wheel (linked)
+Present a snack to the pod as if you were presenting it on Masterchef
+Answer a Question in a lecture
